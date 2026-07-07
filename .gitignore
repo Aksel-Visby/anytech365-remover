@@ -1,0 +1,7 @@
+# Logs produced by the removal script
+antiscam_removal_*.log
+
+# OS / editor cruft
+Thumbs.db
+desktop.ini
+*.swp
